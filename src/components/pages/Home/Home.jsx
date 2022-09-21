@@ -5,12 +5,15 @@ function Home() {
   return (
     <div className="home">
       <h1>Home</h1>
+      <h1>my Portfolio</h1>
       <div>
-        this is a basic react tamplate project. <br />
-        this app is for copy only.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas sapiente
+        consequatur veritatis unde totam, voluptatibus quam ullam odio nemo ab
+        nulla blanditiis, ipsum, ipsa itaque suscipit veniam velit voluptates?
+        Totam.
       </div>
     </div>
   );
-};
+}
 
 export default Home;
